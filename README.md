@@ -3,10 +3,6 @@ Ce dépôt contient le code et la documentation du travail sur le projet kaggle 
 ## Équipe :
 ### Titre du projet: ASHRAE - Great Energy Predictor III.
 
-### Encadrement: Pr. Agathe GUILLOUX et Pr. Simon BUSSY
-
-### Etudiants: Mamadou Kanoute, Imad Bouhou, Ibrahima BA
-
 ## Description du projet :
 
 Il est difficile de calculer la valeur des améliorations de l'efficacité énergétique, car nous ne pouvons pas vraiment savoir combien d'énergie un bâtiment aurait utilisé sans améliorations.
@@ -21,6 +17,5 @@ les investisseurs à grande échelle et les institutions financières seront plu
 lien de la compétition et les données https://www.kaggle.com/c/ashrae-energy-prediction/overview
 
 ## Contenu du repertoire:
-suivi.ipynb -- le fichier du suivi. <br/>
 code        -- le répertoire qui contient les codes. <br/>
 utils.py & feature_enginering.py    -- 2 fichiers python qui contient des fonctions utilisées dans les notebooks.

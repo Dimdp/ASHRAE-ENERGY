@@ -1,7 +1,6 @@
 Ce dépôt contient le code et la documentation du travail sur le projet kaggle ASHRAE - Great Energy Predictor III.
 
-## Équipe :
-### Titre du projet: ASHRAE - Great Energy Predictor III.
+ASHRAE - Great Energy Predictor III.
 
 ## Description du projet :
 
